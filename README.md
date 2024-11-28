@@ -15,7 +15,7 @@ Criar um humano digital hiper-realista usando o MetaHuman Creator e desenvolver 
 
 ## Propósito
 
-A persona desenvolvida nesta atividade tem a finalidade, como um humano-digital, de traduzir as informações que estão sendo explicadas por um professor, independente do tema, para a linguagem brasileira de sinais (LIBRAS). A ideia é que o humano-digital possa ser utilizado em aulas, palestras, workshops, entre outros, para que pessoas surdas possam ter acesso ao conteúdo de forma mais inclusiva.
+A persona desenvolvida nesta atividade tem a finalidade, como um humano-digital, de traduzir as informações que estão sendo explicadas por um professor, independente do tema, para a linguagem brasileira de sinais (LIBRAS). A ideia é que o humano-digital possa ser utilizado em aulas, palestras, workshops, entre outros, para que pessoas surdas possam ter acesso ao conteúdo de forma mais inclusiva, embora a primeira versão será focada em traduzir os conteúdos de aulas do ciclo I de aprendizagem no ensino fundamental.
 
 ## Área de Aplicação do Projeto
 
@@ -23,7 +23,7 @@ Em sua primeira versão, o humano-digital será utilizado na área da educação
 
 ## Descrição do MetaHuman
 
-Por nome de Verônica, a persona é uma mulher de 26 anos, com cabelos curtos e crespos que estão trançados na raiz. Ela tem pele negra e olhos castanhos. Sua altura é de 1,68 cm e seu peso é de 57 kg. Ela tem um estilo de roupa e de vida bastante esportiva, com roupas confortáveis para treino e um tênis de corrida. Ela é uma pessoa extrovertida e gosta de conversar com as pessoas, o que a fez se especializar em tradução de LIBRAS, além de aprender outros 3 idiomas verbais além do seu idioma nativo e gosta de trabalhar com crianças, o que a direcionou para a área da educação no ciclo I de aprendizagem do ensino fundamental.
+Por nome de Verônica, a persona é uma mulher de 26 anos, com cabelos curtos e crespos que estão trançados na raiz. Ela tem pele negra e olhos castanhos. Sua altura é de 1,68 cm e seu peso é de 62 kg. Ela tem um estilo de roupa e de vida bastante esportiva, com roupas confortáveis para treino e um tênis de corrida. Ela é uma pessoa extrovertida e gosta de conversar com as pessoas, o que a fez se especializar em tradução de LIBRAS, além de aprender outros 3 idiomas verbais além do seu idioma nativo e gosta de trabalhar com crianças, o que a direcionou para a área da educação no ciclo I de aprendizagem do ensino fundamental.
 
 ## Motivação e Justificativa
 
